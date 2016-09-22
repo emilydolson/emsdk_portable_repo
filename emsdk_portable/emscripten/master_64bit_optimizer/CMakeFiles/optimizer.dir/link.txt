@@ -1,0 +1,1 @@
+/usr/bin/c++    -fno-exceptions -fno-rtti -std=c++11 -O3 -DNDEBUG    CMakeFiles/optimizer.dir/optimizer-main.cpp.o CMakeFiles/optimizer.dir/parser.cpp.o CMakeFiles/optimizer.dir/simple_ast.cpp.o CMakeFiles/optimizer.dir/optimizer.cpp.o CMakeFiles/optimizer.dir/optimizer-shared.cpp.o  -o optimizer -rdynamic 
